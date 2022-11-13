@@ -1,4 +1,4 @@
-# <p align="center">I'm KiemTran** 🎯️🚀️</p>
+# <p align="center">I'm Kiem Tran 🚀️</p>
 **About Me**
 
 <a href="https://twitter.com/KiemTranDev">
