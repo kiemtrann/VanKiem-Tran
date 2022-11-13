@@ -1,4 +1,4 @@
-# <p align="center"> **Hello!!<img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="waving hand" width="30px">I'm KiemTran** 🎯️🚀️</p>
+# <p align="center">I'm KiemTran** 🎯️🚀️</p>
 **About Me**
 
 <a href="https://twitter.com/KiemTranDev">
