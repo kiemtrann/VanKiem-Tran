@@ -21,11 +21,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Enouvo
-- 🌱 I’m currently learning Nextjs
-- 👯 I’m looking to collaborate on ReactJs
-- 🤔 I’m looking for help with AWS 
--->
+- 🤔 I’m currently working on Enouvo
+- 🌱 It is my goal to build a professional and great product that clients and users will love to use, and full-time 24/7 service is my favorite and pleasure.
+- 👯 I love what I do.
+- 🔭 Thank you for your interesting.
 
 
 ##### Languages I have used
